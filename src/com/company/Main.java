@@ -21,10 +21,7 @@ public class Main {
         }
         System.out.println("Maximum variable is: " + max);
 
-        Arrays.sort(intArray);
-        for (int element : intArray) {
-            System.out.println(element);
-        }
+
     }
 }
 
